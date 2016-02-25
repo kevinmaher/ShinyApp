@@ -10,6 +10,7 @@ This shinyapp lets you explore the relationship between Ozone and the five other
 
 - Tick the 'Show all...' box to see the summary statistics for the chosen linear relationship.
 
+to run the app, click on the following link https://kevmaher.shinyapps.io/APPNAME/
 
 ## Presentation of how to use the Shiny App for analysing the airquality Dataset
 
